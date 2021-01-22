@@ -1,0 +1,12 @@
+
+en terminal: 
+ python mange.py createsuperuser
+
+
+en terminal: 
+ pip install -r requirements.txt
+
+
+para poder ver el catalogo de bicicletas:
+
+ agregar productos mediante el formulario con las imagenes almacenadas en bmx/media
